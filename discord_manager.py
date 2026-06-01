@@ -8,8 +8,10 @@ import info_msgs
 
 from discord.ext import commands
 
-# Discord token
-DISCORD_TOKEN = "REDACTED_TOKEN"
+# Discord token (load from environment for safety)
+DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
+if not DISCORD_TOKEN:
+    raise RuntimeError("DISCORD_TOKEN não está definida. Defina a variável de ambiente DISCORD_TOKEN antes de executar o bot.")
 
 # Bot initialization
 intents = discord.Intents.all()
