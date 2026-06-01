@@ -1,12 +1,13 @@
-import data_management
 import os
+
 import discord
+from discord.ext import commands
+
+import data_management
 import discord_embeds
 import discord_logic
 import discord_ui
 import info_msgs
-
-from discord.ext import commands
 
 # Discord token (load from environment for safety)
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
