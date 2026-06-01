@@ -1,0 +1,52 @@
+[
+  {
+    "NAME": "Resgatar o gato Tora",
+    "DESCRIPTION": "Encontre e traga de volta o gato Tora que fugiu para o bosque.",
+    "RANK": "D",
+    "RANK_REQUIRED": "Estudante da Academia",
+    "STAMINA_COST": 10,
+    "XP_REWARD": 50,
+    "RYO_REWARD": 100,
+    "DURATION": 0
+  },
+  {
+    "NAME": "Escolta de construtor",
+    "DESCRIPTION": "Proteja o construtor da vila durante a viagem até o canteiro de obras.",
+    "RANK": "C",
+    "RANK_REQUIRED": "Genin",
+    "STAMINA_COST": 25,
+    "XP_REWARD": 200,
+    "RYO_REWARD": 400,
+    "DURATION": 0
+  },
+  {
+    "NAME": "Patrulha na fronteira",
+    "DESCRIPTION": "Patrulhe a fronteira da vila e elimine invasores.",
+    "RANK": "B",
+    "RANK_REQUIRED": "Chunin",
+    "STAMINA_COST": 40,
+    "XP_REWARD": 500,
+    "RYO_REWARD": 800,
+    "DURATION": 0
+  },
+  {
+    "NAME": "Captura de ninja renegado",
+    "DESCRIPTION": "Rastreie e capture um ninja renegado perigoso.",
+    "RANK": "A",
+    "RANK_REQUIRED": "Chunin",
+    "STAMINA_COST": 60,
+    "XP_REWARD": 1000,
+    "RYO_REWARD": 2000,
+    "DURATION": 0
+  },
+  {
+    "NAME": "Defesa da Vila",
+    "DESCRIPTION": "Missão de emergência para defender a vila de um ataque.",
+    "RANK": "S",
+    "RANK_REQUIRED": "Jonin",
+    "STAMINA_COST": 80,
+    "XP_REWARD": 3000,
+    "RYO_REWARD": 5000,
+    "DURATION": 0
+  }
+]

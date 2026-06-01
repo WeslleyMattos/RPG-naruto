@@ -1,0 +1,14 @@
+[
+  {
+    "NAME": "Dynamic Entry",
+    "DESCRIPTION": "Golpe de taijutsu rápido e poderoso.",
+    "CHAKRA_COST": 0,
+    "STAMINA_COST": 8,
+    "POWER": 14,
+    "ELEMENT": "Nenhum",
+    "COOLDOWN": 1,
+    "TAGS": [],
+    "PERCENTAGE_COST": false,
+    "SKILL_TYPE": "Taijutsu"
+  }
+]

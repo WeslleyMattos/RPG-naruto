@@ -1,0 +1,140 @@
+[
+  {
+    "NAME": "Novice",
+    "DESCRIPTION": "Starting job",
+    "SKILL_DICT": {
+      "1": "First Aid",
+      "2": "Small Fireball",
+      "3": "+1 ATK",
+      "4": "Rushed Strike",
+      "5": "+3 MAXHP"
+    },
+    "REQUISITES": {},
+    "XP_FACTOR": 2,
+    "PREFERRED_WEAPONS": ["SWORD", "DAGGER", "STAFF"]
+  },
+  {
+    "NAME": "Warrior",
+    "DESCRIPTION": "Warrior job",
+    "SKILL_DICT": {
+      "1": "Shielded Strike",
+      "2": "Flame Blade",
+      "3": "+3 MAXHP",
+      "4": "Bulwark",
+      "5": "+3 DEF",
+      "6": "Great Charge",
+      "7": "+3 MDEF"
+    },
+    "REQUISITES": {"Novice" :  3},
+    "XP_FACTOR": 1,
+    "PREFERRED_WEAPONS": ["SWORD", "AXE"]
+  },
+  {
+    "NAME": "Rogue",
+    "DESCRIPTION": "Rogue job",
+    "SKILL_DICT": {
+      "1": "Disarm",
+      "2": "Shadow Strike",
+      "3": "+3 ATK",
+      "4": "Sharpen Knives",
+      "5": "+5 CRITCH",
+      "6": "Hurricane Blades",
+      "7": "+3 SPEED"
+    },
+    "REQUISITES": {"Novice" :  3},
+    "XP_FACTOR": 1,
+    "PREFERRED_WEAPONS": ["SWORD","DAGGER"]
+  },
+  {
+    "NAME": "Mage",
+    "DESCRIPTION": "Mage job",
+    "SKILL_DICT": {
+      "1": "Ice Bolt",
+      "2": "Quickflame",
+      "3": "+3 MAXMP",
+      "4": "Mana Barrier",
+      "5": "Meditate",
+      "6": "Thunder Spear",
+      "7": "+3 MATK"
+    },
+    "REQUISITES": {"Novice" :  3},
+    "XP_FACTOR": 1,
+    "PREFERRED_WEAPONS": ["STAFF", "BOOK"]
+  },
+  {
+    "NAME": "Gladiator",
+    "DESCRIPTION": "Gladiator job",
+    "SKILL_DICT": {
+      "1": "Bolt Sword",
+      "2": "Aggressive Stance",
+      "3": "+3 DEF",
+      "4": "Ice Shield Strike",
+      "5": "Defensive Stance",
+      "6": "+3 ATK",
+      "7": "Pyroclasm",
+      "8": "+2 MDEF",
+      "9": "Champion's Roar",
+      "10": "+4 MAXHP"
+    },
+    "REQUISITES": {"Warrior" :  5},
+    "XP_FACTOR": 1,
+    "PREFERRED_WEAPONS": ["SWORD", "AXE", "HAMMER"]
+  },
+  {
+    "NAME": "Cleric",
+    "DESCRIPTION": "Cleric job",
+    "SKILL_DICT": {
+      "1": "Holy Smite",
+      "2": "Divine Heal",
+      "3": "+3 MDEF",
+      "4": "Glorious Shield",
+      "5": "Read Prayer",
+      "6": "+3 MATK",
+      "7": "God's Wrath",
+      "8": "+2 DEF",
+      "9": "Lord's Intervention",
+      "10": "+4 MAXMP"
+    },
+    "REQUISITES": {"Mage" :  5},
+    "XP_FACTOR": 1,
+    "PREFERRED_WEAPONS": ["BOOK", "SCEPTER"]
+  },
+  {
+    "NAME": "Hunter",
+    "DESCRIPTION": "Hunter job",
+    "SKILL_DICT": {
+      "1": "Arrow Rain",
+      "2": "Nature Inspiration",
+      "3": "+3 SPEED",
+      "4": "Penetrate Defenses",
+      "5": "Enchant Weapons",
+      "6": "+3 ATK",
+      "7": "Rainbow Arrow",
+      "8": "+3 CRITCH",
+      "9": "Frost Fang",
+      "10": "+4 MAXHP"
+    },
+    "REQUISITES": {"Rogue" :  5, "Warrior" :  5},
+    "XP_FACTOR": 1,
+    "PREFERRED_WEAPONS": ["DAGGER", "BOW"]
+  },
+  {
+    "NAME": "Warlock",
+    "DESCRIPTION": "Warlock job",
+    "SKILL_DICT": {
+      "1": "Freeze Veins",
+      "2": "Blood Transfusion",
+      "3": "+3 MAXMP",
+      "4": "Dark Pact",
+      "5": "Absorb Strength",
+      "6": "+3 MAXHP",
+      "7": "Immolate",
+      "8": "+2 ATK",
+      "9": "Bio",
+      "10": "+4 MATK"
+    },
+    "REQUISITES": {"Rogue" :  5, "Mage" :  5},
+    "XP_FACTOR": 1,
+    "PREFERRED_WEAPONS": ["DAGGER", "STAFF", "BOOK"]
+  }
+]

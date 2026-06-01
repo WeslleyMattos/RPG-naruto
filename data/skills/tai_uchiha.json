@@ -1,0 +1,14 @@
+[
+  {
+    "NAME": "Sharingan Genjutsu",
+    "DESCRIPTION": "Genjutsu que paralisa o alvo.",
+    "CHAKRA_COST": 4,
+    "STAMINA_COST": 3,
+    "POWER": 5,
+    "ELEMENT": "Nenhum",
+    "COOLDOWN": 3,
+    "TAGS": ["PARALYSIS", "INFLICT_BUFF_DEBUFF", "NINJ_DOWN"],
+    "PERCENTAGE_COST": false,
+    "SKILL_TYPE": "Genjutsu"
+  }
+]

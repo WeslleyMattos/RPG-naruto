@@ -1,0 +1,35 @@
+[
+  {
+    "NAME": "Kunai",
+    "DESCRIPTION": "Arma básica de todo ninja.",
+    "INDIV_VALUE": 50,
+    "OBJECT_TYPE": "EQUIPMENT",
+    "EQUIPMENT_TYPE": "KUNAI",
+    "STAT_CHANGE_LIST": {"ATK": 3},
+    "NINJUTSU_MULT": 1.0,
+    "TAIJUTSU_MULT": 1.05,
+    "CHAKRA_REDUCTION": 0.0
+  },
+  {
+    "NAME": "Flak Jacket",
+    "DESCRIPTION": "Colete padrão de genin.",
+    "INDIV_VALUE": 200,
+    "OBJECT_TYPE": "EQUIPMENT",
+    "EQUIPMENT_TYPE": "FLAK_JACKET",
+    "STAT_CHANGE_LIST": {"DEF": 5, "MAXHP": 10},
+    "NINJUTSU_MULT": 1.0,
+    "TAIJUTSU_MULT": 1.0,
+    "CHAKRA_REDUCTION": 0.0
+  },
+  {
+    "NAME": "Chakra Headband",
+    "DESCRIPTION": "Bandana da vila que aumenta concentração de chakra.",
+    "INDIV_VALUE": 150,
+    "OBJECT_TYPE": "EQUIPMENT",
+    "EQUIPMENT_TYPE": "HEADBAND",
+    "STAT_CHANGE_LIST": {"NINJ": 2},
+    "NINJUTSU_MULT": 1.10,
+    "TAIJUTSU_MULT": 1.0,
+    "CHAKRA_REDUCTION": 0.05
+  }
+]

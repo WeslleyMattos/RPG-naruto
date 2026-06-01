@@ -1,0 +1,26 @@
+[
+  {
+    "NAME": "Goukakyuu no Jutsu",
+    "DESCRIPTION": "Libera uma grande bola de fogo contra o inimigo.",
+    "CHAKRA_COST": 5,
+    "STAMINA_COST": 2,
+    "POWER": 18,
+    "ELEMENT": "Katon",
+    "COOLDOWN": 2,
+    "TAGS": [],
+    "PERCENTAGE_COST": false,
+    "SKILL_TYPE": "Ninjutsu"
+  },
+  {
+    "NAME": "Katon: Housenka no Jutsu",
+    "DESCRIPTION": "Dispara múltiplas pequenas bolas de fogo.",
+    "CHAKRA_COST": 3,
+    "STAMINA_COST": 1,
+    "POWER": 12,
+    "ELEMENT": "Katon",
+    "COOLDOWN": 1,
+    "TAGS": ["DOES_NOT_SKIP_TURN"],
+    "PERCENTAGE_COST": false,
+    "SKILL_TYPE": "Ninjutsu"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "DUNGEON_NAME": "Floresta da Morte",
+    "RECOMMENDED_LVL": 15,
+    "MIN_RANK": "Genin",
+    "ENEMY_LIST": ["Ninja Renegado", "Ninja da Névoa"],
+    "BOSS": "Orochimaru Snake",
+    "ENEMY_COUNT": 3,
+    "LOOT_POOL": ["Kunai", "Pílula de Soldado", "Shuriken"],
+    "RYO_REWARD": 500
+  },
+  {
+    "DUNGEON_NAME": "Exame Chunin",
+    "RECOMMENDED_LVL": 30,
+    "MIN_RANK": "Genin",
+    "ENEMY_LIST": ["Genin Rival", "Genin da Areia"],
+    "BOSS": "Gaara Clone",
+    "ENEMY_COUNT": 2,
+    "LOOT_POOL": ["Kunai", "Olho de Sharingan"],
+    "RYO_REWARD": 1000
+  }
+]

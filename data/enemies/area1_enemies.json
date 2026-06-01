@@ -1,0 +1,222 @@
+[
+  {
+    "NAME": "Bat",
+    "STATS": {
+      "MAXHP": 17,
+      "HP": 17,
+      "ATK": 5,
+      "DEF": 9,
+      "MATK": 10,
+      "MDEF": 4,
+      "SPEED": 13
+    },
+    "DESCRIPTION": "The Nocturnis bats of Escordia, with their shimmering obsidian wings and piercing crimson eyes, are feared for their uncanny agility and hypnotic ultrasonic cries, believed to carry an ancient curse that brings eternal darkness to those unfortunate enough to cross their path.",
+    "XP_REWARD": 7,
+    "GOLD_REWARD": 5,
+    "POSSIBLE_LOOT": null,
+    "LOOT_CHANCE": 0,
+    "SKILLS": ["Bloodstealer"],
+    "WEAKNESSES": ["THUNDER", "WIND"],
+    "RESISTANCES": ["DARK"],
+    "IMAGE_URL": "https://i.postimg.cc/fLsrwz3Z/Colossal-Bat.png",
+    "IS_BOSS": false
+  },
+  {
+    "NAME": "Wolf",
+    "STATS": {
+      "MAXHP": 23,
+      "HP": 23,
+      "ATK": 8,
+      "DEF": 7,
+      "MATK": 1,
+      "MDEF": 5,
+      "SPEED": 10
+    },
+    "DESCRIPTION": "The wolves of Escordia are known for their thick, shaggy coats and their piercing, golden eyes. They are highly intelligent and are often seen traveling in packs, hunting for prey.",
+    "XP_REWARD": 13,
+    "GOLD_REWARD": 9,
+    "POSSIBLE_LOOT": null,
+    "LOOT_CHANCE": 0,
+    "SKILLS": ["Intimidate"],
+    "WEAKNESSES": ["FIRE", "HOLY"],
+    "RESISTANCES": ["WIND"],
+    "IMAGE_URL": "https://i.postimg.cc/1R65TbDJ/Mountain-Wolf.png",
+    "IS_BOSS": false
+  },
+  {
+    "NAME": "Lion Ant",
+    "STATS": {
+      "MAXHP": 20,
+      "HP": 20,
+      "ATK": 6,
+      "DEF": 10,
+      "MATK": 2,
+      "MDEF": 13,
+      "SPEED": 7
+    },
+    "DESCRIPTION": "The Lion Ants of Escordia are known for their ferociousness and their ability to burrow deep into the ground. They are often found in the desert, where they hunt for prey and protect their young.",
+    "XP_REWARD": 8,
+    "GOLD_REWARD": 15,
+    "POSSIBLE_LOOT": null,
+    "LOOT_CHANCE": 0,
+    "SKILLS": [],
+    "WEAKNESSES": ["FIRE"],
+    "RESISTANCES": [],
+    "IMAGE_URL": "https://i.postimg.cc/tCq5Dgyc/Insects-Ant-Lion.png",
+    "IS_BOSS": false
+  },
+  {
+    "NAME": "Colossal Caterpillar",
+    "STATS": {
+      "MAXHP": 35,
+      "HP": 35,
+      "ATK": 4,
+      "DEF": 11,
+      "MATK": 1,
+      "MDEF": 5,
+      "SPEED": 2
+    },
+    "DESCRIPTION": "The dreaded Colossal Caterpillars of Escordia, monstrous in size and oozing with toxic venom, haunt the depths of shadowy forests, consuming all in their path as they spread corruption and decay, leaving devastation and despair in their wake",
+    "XP_REWARD": 11,
+    "GOLD_REWARD": 10,
+    "POSSIBLE_LOOT": null,
+    "LOOT_CHANCE": 0,
+    "SKILLS": ["Fortify"],
+    "WEAKNESSES": ["FIRE", "DARK"],
+    "RESISTANCES": ["ICE", "HOLY"],
+    "IMAGE_URL": "https://i.postimg.cc/7PV1Cy7n/Insects-Caterpillar-A.png",
+    "IS_BOSS": false
+  },
+  {
+    "NAME": "Giant Dragonfly",
+    "STATS": {
+      "MAXHP": 20,
+      "HP": 20,
+      "ATK": 9,
+      "DEF": 7,
+      "MATK": 9,
+      "MDEF": 3,
+      "SPEED": 15
+    },
+    "DESCRIPTION": "The Giant Dragonflies of Escordia are known for their shimmering, iridescent wings and their piercing, emerald eyes. They are highly intelligent and are often seen traveling in swarms, hunting for prey.",
+    "XP_REWARD": 13,
+    "GOLD_REWARD": 8,
+    "POSSIBLE_LOOT": null,
+    "LOOT_CHANCE": 0,
+    "SKILLS": ["Whirlwind"],
+    "WEAKNESSES": ["FIRE", "THUNDER"],
+    "RESISTANCES": ["WIND"],
+    "IMAGE_URL": "https://i.postimg.cc/HskwXP9D/Insects-Dragonfly-B.png",
+    "IS_BOSS": false
+  },
+  {
+    "NAME": "Daidarabotchi, Forest Guardian",
+    "STATS": {
+      "MAXHP": 92,
+      "HP": 92,
+      "ATK": 13,
+      "DEF": 13,
+      "MATK": 11,
+      "MDEF": 14,
+      "SPEED": 12
+    },
+    "DESCRIPTION": "Daidarabotchi, the ancient and colossal Forest Guardian of Escordia, awakens from its slumber to protect the sacred woodland, wielding immense strength and control over the very roots and foliage that make up its domain, striking fear into the hearts of those who dare threaten the balance of nature.",
+    "XP_REWARD": 190,
+    "GOLD_REWARD": 50,
+    "POSSIBLE_LOOT": "Daidarabotchi Armor",
+    "LOOT_CHANCE": 15,
+    "SKILLS": ["Forest Blessing", "Hyper Beam"],
+    "WEAKNESSES": ["FIRE", "DARK"],
+    "RESISTANCES": ["WIND", "HOLY"],
+    "IMAGE_URL": "https://i.postimg.cc/DygrbcK4/Boss-Daidarabotchi.png",
+    "IS_BOSS": true
+  },
+  {
+    "NAME": "Goblin Raider",
+    "STATS": {
+      "MAXHP": 25,
+      "HP": 25,
+      "ATK": 8,
+      "DEF": 7,
+      "MATK": 2,
+      "MDEF": 7,
+      "SPEED": 14
+    },
+    "DESCRIPTION": "The Marauder Goblins of Escordia, known for their cunning tactics, unruly nature, and relentless pillaging, traverse the land with their sharp blades and wicked grins, leaving a trail of chaos and stolen riches in their wake.",
+    "XP_REWARD": 22,
+    "GOLD_REWARD": 12,
+    "POSSIBLE_LOOT": null,
+    "LOOT_CHANCE": 0,
+    "SKILLS": [],
+    "WEAKNESSES": ["FIRE", "HOLY"],
+    "RESISTANCES": ["WIND"],
+    "IMAGE_URL": "https://i.postimg.cc/pX2mzsxW/Goblin-Raider.png",
+    "IS_BOSS": false
+  },
+  {
+    "NAME": "Goblin Archer",
+    "STATS": {
+      "MAXHP": 22,
+      "HP": 22,
+      "ATK": 10,
+      "DEF": 7,
+      "MATK": 2,
+      "MDEF": 7,
+      "SPEED": 10
+    },
+    "DESCRIPTION": "The Shadowfang Archers, a notorious faction of goblin marksmen in Escordia, strike fear into the hearts of their enemies with deadly accuracy, employing their bows and poisoned arrows from the shadows to ambush unsuspecting victims with swift and silent precision.",
+    "XP_REWARD": 23,
+    "GOLD_REWARD": 18,
+    "POSSIBLE_LOOT": "Goblin Bow",
+    "LOOT_CHANCE": 25,
+    "SKILLS": [],
+    "WEAKNESSES": ["FIRE", "WIND"],
+    "RESISTANCES": [],
+    "IMAGE_URL": "https://i.postimg.cc/tTXK2ngx/Goblin-Archer.png",
+    "IS_BOSS": false
+  },
+  {
+    "NAME": "Goblin Mage",
+    "STATS": {
+      "MAXHP": 25,
+      "HP": 25,
+      "ATK": 6,
+      "DEF": 8,
+      "MATK": 11,
+      "MDEF": 12,
+      "SPEED": 10
+    },
+    "DESCRIPTION": "The Goblin Mages of Escordia are known for their mastery of the arcane arts, wielding their staffs and casting powerful spells to decimate their foes from afar.",
+    "XP_REWARD": 27,
+    "GOLD_REWARD": 12,
+    "POSSIBLE_LOOT": "Goblin Tome",
+    "LOOT_CHANCE": 25,
+    "SKILLS": ["Bloodstealer"],
+    "WEAKNESSES": ["FIRE"],
+    "RESISTANCES": ["HOLY", "DARK"],
+    "IMAGE_URL": "https://i.postimg.cc/fL7m1s6v/Goblin-Mage.png",
+    "IS_BOSS": false
+  },
+  {
+    "NAME": "Goblin Elite",
+    "STATS": {
+      "MAXHP": 47,
+      "HP": 47,
+      "ATK": 11,
+      "DEF": 12,
+      "MATK": 10,
+      "MDEF": 10,
+      "SPEED": 10
+    },
+    "DESCRIPTION": "The Elite Goblins of Escordia are the most powerful and feared of their kind, wielding their massive weapons with deadly precision, and are often seen leading their fellow goblins into battle.",
+    "XP_REWARD": 72,
+    "GOLD_REWARD": 33,
+    "POSSIBLE_LOOT": null,
+    "LOOT_CHANCE": 0,
+    "SKILLS": ["Fortify", "Intimidate"],
+    "WEAKNESSES": ["FIRE", "HOLY"],
+    "RESISTANCES": ["WIND", "DARK"],
+    "IMAGE_URL": "https://i.postimg.cc/VvXHwY58/Goblin-Elite.png",
+    "IS_BOSS": false
+  }
+]

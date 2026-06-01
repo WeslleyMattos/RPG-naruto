@@ -1,0 +1,26 @@
+[
+  {
+    "NAME": "Pílula de Soldado",
+    "DESCRIPTION": "Recupera stamina rapidamente.",
+    "INDIV_VALUE": 120,
+    "OBJECT_TYPE": "CONSUMABLE"
+  },
+  {
+    "NAME": "Shuriken",
+    "DESCRIPTION": "Projétil ninja padrão.",
+    "INDIV_VALUE": 30,
+    "OBJECT_TYPE": "LOOT"
+  },
+  {
+    "NAME": "Olho de Sharingan",
+    "DESCRIPTION": "Item raro de um Uchiha.",
+    "INDIV_VALUE": 500,
+    "OBJECT_TYPE": "KEY_ITEM"
+  },
+  {
+    "NAME": "Papiro",
+    "DESCRIPTION": "Pergaminho antigo com selos.",
+    "INDIV_VALUE": 300,
+    "OBJECT_TYPE": "KEY_ITEM"
+  }
+]

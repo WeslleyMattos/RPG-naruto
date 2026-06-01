@@ -1,0 +1,14 @@
+[
+  {
+    "NAME": "First Aid",
+    "DESCRIPTION": "Técnicas básicas de primeiros socorros ninja.",
+    "CHAKRA_COST": 2,
+    "STAMINA_COST": 0,
+    "POWER": 10,
+    "ELEMENT": "Nenhum",
+    "COOLDOWN": 2,
+    "TAGS": ["HEALING"],
+    "PERCENTAGE_COST": false,
+    "SKILL_TYPE": "Ninjutsu"
+  }
+]

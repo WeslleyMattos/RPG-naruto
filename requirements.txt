@@ -1,0 +1,4 @@
+discord.py==2.3.2
+peewee==3.16.3
+StringProgressBar==1.1.1
+audioop-lts>=0.2.1; python_version >= "3.13"

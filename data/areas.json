@@ -1,0 +1,20 @@
+[
+  {
+    "NAME": "Konoha",
+    "NUMBER": 1,
+    "ENEMY_LIST": ["Bandit Ninja", "Academy Student", "Wild Wolf"],
+    "BOSS": "Missing-Nin Leader",
+    "DUNGEONS": ["Floresta da Morte", "Exame Chunin"],
+    "TREASURES": ["Kunai", "Shuriken", "Pílula de Soldado"],
+    "MIN_RANK": "Estudante da Academia"
+  },
+  {
+    "NAME": "Countryside",
+    "NUMBER": 2,
+    "ENEMY_LIST": ["Rogue Genin", "Sand Ninja"],
+    "BOSS": "Jonin Assassin",
+    "DUNGEONS": ["Exame Chunin"],
+    "TREASURES": ["Kunai", "Papiro", "Olho de Sharingan"],
+    "MIN_RANK": "Genin"
+  }
+]

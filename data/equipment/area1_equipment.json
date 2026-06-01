@@ -1,0 +1,202 @@
+[
+    {
+      "NAME": "Rusty Sword",
+      "DESCRIPTION": "A sword full of rust. Not very powerful, but it's better than nothing.",
+      "INDIV_VALUE": 20,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "SWORD",
+      "STAT_CHANGE_LIST": {
+        "ATK": 3
+      }
+    },
+    {
+      "NAME": "Broken Dagger",
+      "DESCRIPTION": "A dagger that's broken in half. At least it's light.",
+      "INDIV_VALUE": 20,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "DAGGER",
+      "STAT_CHANGE_LIST": {
+        "ATK": 1,
+        "CRITCH": 5,
+        "SPEED": 1
+      }
+    },
+    {
+      "NAME": "Old Staff",
+      "DESCRIPTION": "An old staff that's been used for many years.",
+      "INDIV_VALUE": 20,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "STAFF",
+      "STAT_CHANGE_LIST": {
+        "MATK": 2,
+        "MAXMP": 2
+      }
+    },
+    {
+      "NAME": "Longsword",
+      "DESCRIPTION": "A standard iron sword.",
+      "INDIV_VALUE": 50,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "SWORD",
+      "STAT_CHANGE_LIST": {
+        "ATK": 6,
+        "DEF": 2
+      }
+    },
+    {
+      "NAME": "Steel Dagger",
+      "DESCRIPTION": "A standard and deadly dagger.",
+      "INDIV_VALUE": 50,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "DAGGER",
+      "STAT_CHANGE_LIST": {
+        "ATK": 4,
+        "CRITCH": 10,
+        "SPEED": 2
+      }
+    },
+    {
+      "NAME": "Student Staff",
+      "DESCRIPTION": "A standard staff from the Academy.",
+      "INDIV_VALUE": 50,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "STAFF",
+      "STAT_CHANGE_LIST": {
+        "ATK": 3,
+        "MATK": 3,
+        "MAXMP": 3
+      }
+    },
+    {
+      "NAME": "Goblin Tome",
+      "DESCRIPTION": "An old goblin tome.",
+      "INDIV_VALUE": 40,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "BOOK",
+      "STAT_CHANGE_LIST": {
+        "MATK": 5,
+        "MAXMP": 4
+      }
+    },
+    {
+      "NAME": "Goblin Bow",
+      "DESCRIPTION": "An old goblin bow.",
+      "INDIV_VALUE": 38,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "BOW",
+      "STAT_CHANGE_LIST": {
+        "ATK": 4,
+        "CRITCH": 20,
+        "SPEED": -3
+      }
+    },
+    {
+      "NAME": "Novice Armor",
+      "DESCRIPTION": "A standard armor from the Guild.",
+      "INDIV_VALUE": 30,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "LIGHT_ARMOR",
+      "STAT_CHANGE_LIST": {
+        "MAXHP": 2,
+        "DEF": 2,
+        "MDEF": 1
+      }
+    },
+    {
+      "NAME": "Bronze Armor",
+      "DESCRIPTION": "A sturdy armor made from bronze.",
+      "INDIV_VALUE": 50,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "HEAVY_ARMOR",
+      "STAT_CHANGE_LIST": {
+        "MAXHP": 4,
+        "DEF": 6,
+        "MDEF": 3,
+        "SPEED": -2
+      }
+    },
+    {
+      "NAME": "Daidarabotchi Armor",
+      "DESCRIPTION": "Armor made from wood coming from the great Daidarabotchi.",
+      "INDIV_VALUE": 180,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "HEAVY_ARMOR",
+      "STAT_CHANGE_LIST": {
+        "MAXHP": 7,
+        "MAXMP": 4,
+        "DEF": 5,
+        "MDEF": 4
+      }
+    },
+    {
+      "NAME": "Cloth Armor",
+      "DESCRIPTION": "A lightweight armor made from cloth.",
+      "INDIV_VALUE": 45,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "LIGHT_ARMOR",
+      "STAT_CHANGE_LIST": {
+        "MAXHP": 3,
+        "DEF": 4,
+        "MDEF": 2,
+        "SPEED": 2
+      }
+    },
+    {
+      "NAME": "Student Robes",
+      "DESCRIPTION": "Student robes from the academy.",
+      "INDIV_VALUE": 50,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "MAGIC_ARMOR",
+      "STAT_CHANGE_LIST": {
+        "MAXHP": 3,
+        "MAXMP": 4,
+        "DEF": 3,
+        "MDEF": 3
+      }
+    },
+    {
+      "NAME": "Bronze Helmet",
+      "DESCRIPTION": "A bronze helmet.",
+      "INDIV_VALUE": 30,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "PHYS_HELM",
+      "STAT_CHANGE_LIST": {
+        "MAXHP": 1,
+        "DEF": 3
+      }
+    },
+    {
+      "NAME": "Magic Hoodie",
+      "DESCRIPTION": "A hoodie that's imbued with magic.",
+      "INDIV_VALUE": 30,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "MAG_HELM",
+      "STAT_CHANGE_LIST": {
+        "MAXMP": 1,
+        "DEF": 2,
+        "MDEF": 3
+      }
+    },
+    {
+      "NAME": "Crystal Ring",
+      "DESCRIPTION": "A ring which contains a small amount of magic.",
+      "INDIV_VALUE": 50,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "ACCESSORY",
+      "STAT_CHANGE_LIST": {
+        "MAXMP": 3,
+        "MATK": 2
+      }
+    },
+    {
+      "NAME": "Bronze Bracelet",
+      "DESCRIPTION": "A defensive bracelet made from bronze.",
+      "INDIV_VALUE": 20,
+      "OBJECT_TYPE": "EQUIPMENT",
+      "EQUIPMENT_TYPE": "ACCESSORY",
+      "STAT_CHANGE_LIST": {
+        "DEF": 2
+      }
+    }
+]
+  
